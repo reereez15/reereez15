@@ -11,7 +11,6 @@
 ### 💻 Main Skills
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,mysql" alt="Main Skills" />
-  <i class="fa-solid fa-camera"></i>
 </div>
 
 ### 🔧 Tools & Environment
