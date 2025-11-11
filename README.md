@@ -1,5 +1,5 @@
 # 안녕하세요! 👋 저는 개발자 김준식입니다
-
+<i class="fa-solid fa-camera"></i>
 ## 🚀 About Me
 - 🎓 **Korea IT Academy 3월 국비 과정** 수료 중
 - 🌱 현재 학습 중: **Full Stack Development (Java, Spring Boot, React)**
