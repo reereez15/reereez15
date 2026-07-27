@@ -80,9 +80,6 @@
 - 📚 IT 기술 서적 및 개발 블로그 읽기
 - 🏃‍♂️ 건강 관리 & 운동
 
-## 📫 연락하기
-- **이메일**: sig2016@naver.com
-- **💬 Discord**: leo_k5
 ---
 
 <div align="center">
