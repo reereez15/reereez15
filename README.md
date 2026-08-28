@@ -2,7 +2,7 @@
 ## 🚀 About Me
 - 🎓 **Korea IT Academy 3월 국비 과정** 수료 중
 - 🌱 현재 학습 중: **Full Stack Development (Java, Spring Boot, React)**
-- 💻 관심 분야: **웹 개발, 백엔드 개발, 프론트엔드 개발**
+- 💻 관심 분야: **웹 개발, 백엔드 개발**
 - 📚 학습 완료: **Java, HTML/CSS, SQL, Spring Boot, React(TypeScript)**
 - 🎯 목표: **실무 경험을 통해 성장하는 풀스택 개발자**
 
